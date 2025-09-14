@@ -18,6 +18,10 @@
   "homepage": "https://github.com/arata0917/typescript-for-javascript-developers#readme",
   "description": "",
   "devDependencies": {
+    "ts-node": "^10.9.2",
     "typescript": "^5.9.2"
+  },
+  "compilerOptions": {
+    "module": "commonjs"
   }
 }
